@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
   <img width="400px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pipepw&cout_private=true&show_icons=true"/>
-  <img width="400px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pipepw&layout=compact"/>
+  <img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pipepw&layout=compact"/>
 </div>
