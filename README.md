@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pipepw&cout_private=true&show_icons=true"/>
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pipepw&layout=compact"/>
+<div style="display: flex;">
+  <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pipepw&cout_private=true&show_icons=true"/>
+  <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pipepw&layout=compact"/>
+</div>
